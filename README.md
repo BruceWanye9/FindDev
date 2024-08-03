@@ -1,6 +1,4 @@
 
-Memory updated
-Here’s a description for your GitHub project:
 
 FindDev Community
 FindDev Community is a platform designed to connect developers with job opportunities. Built using Spring Boot, MongoDB, and ModelMapper, this project includes features for managing job posts. It offers RESTful APIs to retrieve and add posts, and uses Data Transfer Objects (DTOs) for efficient data handling.
